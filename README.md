@@ -5,7 +5,7 @@ Welcome to my GitHub corner, where I turn coffee into code and ideas into realit
 ## About Me 😄
 
 - **Personality**: A bit shy but bursting with enthusiasm for coding. I love clean code, clever solutions, and the occasional "why-did-I-write-this" moment.
-- **Hobbies**: Writing code that *actually* works, exploring new tech, and laughing at my own typos in commit messages.
+- **Hobbies**: Writing code that actually works, exploring new tech, laughing at my own typos in commit messages, gaming (faves include The Finals, Red Dead Redemption 2, The Witcher 3, and Cyberpunk 2077), strolling through parks, watching anime (Naruto and cyberpunk/sci-fi vibes are my jam), chatting with people about anything new (not just coding!), and hitting the gym to avoid catching bugs by 30.
 - **Fun Fact**: I believe a good error message is like a love letter from your code—it’s honest, a bit painful, but you learn from it.
 
 
@@ -31,7 +31,7 @@ Feel free to star my repos, fork my projects, or just say hi! Let’s build some
 ## Обо мне 😄
 
 - **Характер**: Чуть-чуть застенчивый, но полный энтузиазма, когда дело доходит до кода. Люблю чистый код, умные решения и моменты, когда понимаю, что написал *это* в 3 часа ночи.
-- **Хобби**: Писать код, который *реально* работает, изучать новые технологии и хихикать над своими опечатками в сообщениях коммитов.
+- **Хобби**: Писать код, который реально работает, изучать новые технологии, хихикать над своими опечатками в сообщениях коммитов, играть в игры (любимые: The Finals, Red Dead Redemption 2, The Witcher 3, Cyberpunk 2077), гулять в парке, смотреть аниме (Наруто и фантастику, особенно киберпанк), болтать с людьми о чём угодно новом (не только о программировании!) и заниматься спортом, чтобы не наловить багов к 30.
 - **Факт обо мне**: Я верю, что хорошее сообщение об ошибке — это как любовное письмо от кода: честное, немного болезненное, но учит жизни.
 
 
